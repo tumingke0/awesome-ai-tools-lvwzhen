@@ -54,6 +54,8 @@ Awesome AI Tools of the Future
 - [Perplexity](https://www.perplexity.ai)
 - [YOU](https://you.com)
 - [Consensus](https://consensus.app/search/)
+- [DisconfirmAI](https://disconfirmai.com/en) - AI investment research platform focused on disconfirmation: finding evidence that could overturn a thesis before you commit.
+
 
 ### Community
 - [Hugging Face](https://huggingface.co)
